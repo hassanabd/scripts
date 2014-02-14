@@ -1,0 +1,15 @@
+     15  g++ p1.cpp -o p1.out
+     15  ./L05.out words.txt
+     15  vim p1.cpp
+     18  cd ..
+     21  cd Pfolder/
+     21  cd project/
+     31  ./p3.out
+     45  vim Lab05.h
+     49  g++ Lab05.cpp -o L05.out
+     50  ./p2.out
+     55  g++ p3.cpp -o p3.out
+     57  vim p3.cpp
+    101  ls
+    140  g++ p2.cpp -o p2.out
+    141  vim p2.cpp
